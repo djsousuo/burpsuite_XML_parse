@@ -1,4 +1,5 @@
 #!/usr/bin/python # vim:ts=4:sts=4:sw=4:et:
+#copy form https://raw.githubusercontent.com/archwisp/BurpExportReplay/fc77fca7603aeaa24816216efe69426e8e751e0c/burpexportreplay/burpexport.py
 import sys, getopt, base64, re
 from xml.dom import minidom
 import socket, urllib, json
